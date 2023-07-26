@@ -4,7 +4,7 @@ speed('fastest')
 pensize(2)
 bgcolor ('black')
 pencolor('white')
-colors=['red', 'yellow','blue','green','orange','purple'    ]
+colors=['red', 'yellow','blue','green','orange','purple' ]
 side=6
 for i in range(side):
     fd(200)
